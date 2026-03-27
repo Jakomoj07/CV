@@ -20,7 +20,7 @@ Mam 18 lat. Jestem programistą w trakcie 4. klasy technikum, posiadającym zdan
 * **Analityczne Podejście:** Moje zainteresowanie statystyką i taktyką sportową przekłada się na umiejętność logicznego rozwiązywania problemów w kodzie.
 * **Dyscyplina i Zdrowie:** Sport półprofesjonalny nauczył mnie nie tylko dyscypliny, ale też dbania o optymalną formę fizyczną i psychiczną, co pozwala mi zachować wysoką efektywność.
 * **Leadership i Teamwork:** Jako wieloletni kapitan drużyny potrafię brać odpowiedzialność za grupę i motywować zespół do realizacji wspólnych celów.
-* **Organizacja:** Skutecznie łączę naukę w technikum, intensywne treningi (5x w tygodniu) oraz rozwój osobisty i naukę instrumentu.
+* **Organizacja:** Skutecznie łączę naukę w technikum, intensywne treningi (5x w tygodniu) oraz rozwój osobisty i naukę gry na instrumencie.
 
 ---
 
