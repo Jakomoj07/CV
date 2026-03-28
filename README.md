@@ -59,6 +59,11 @@ Mam 18 lat. Jestem programistą w trakcie 4. klasy technikum, posiadającym zdan
 * **Czas trwania:** 6 miesięcy
 * **Rozwój umiejętności miękkich:** Praca w tym miejscu nauczyła mnie doskonałej organizacji pod presją czasu, wielozadaniowości oraz sprawnej komunikacji i obsługi klienta (co świetnie przekłada się na zrozumienie potrzeb użytkownika końcowego w IT).
 
+* ### Zawodnik Półprofesjonalny | TS Stal Śrubiarnia Żywiec
+* Reprezentowanie klubu na poziomie V ligi.
+* Regularne treningi (4-5 razy w tygodniu) połączone z meczami ligowymi, co wymaga doskonałej organizacji czasu i wysokiej dyscypliny.
+* **Rozwijanie umiejętności współpracy w zespole oraz odpowiedzialności za wspólny wynik sportowy.**
+
 ---
 
 ## 📂 Wybrane Projekty
